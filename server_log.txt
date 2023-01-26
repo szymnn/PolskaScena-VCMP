@@ -1,0 +1,48 @@
+**RUNNING THE SERVER AS ROOT IS HIGHLY UNRECOMMENDED.**
+
+Should an exploit be found in the server or any modules you may
+be running that allows remote code execution, an attacker would
+have full control over the system due to the server running as
+the root user.
+
+Consider running as an unprivileged user made specifically for
+this server (such as 'vcmp') to prevent such a situation from
+occurring.
+
+If you are sure that you want to run the server as root, add
+-allow-server-runas-root to the end of your server run command
+(e.g. ./server -allow-server-runas-root).
+
+Exiting.
+**RUNNING THE SERVER AS ROOT IS HIGHLY UNRECOMMENDED.**
+
+Should an exploit be found in the server or any modules you may
+be running that allows remote code execution, an attacker would
+have full control over the system due to the server running as
+the root user.
+
+Consider running as an unprivileged user made specifically for
+this server (such as 'vcmp') to prevent such a situation from
+occurring.
+
+If you are sure that you want to run the server as root, add
+-allow-server-runas-root to the end of your server run command
+(e.g. ./server -allow-server-runas-root).
+
+Exiting.
+**RUNNING THE SERVER AS ROOT IS HIGHLY UNRECOMMENDED.**
+
+Should an exploit be found in the server or any modules you may
+be running that allows remote code execution, an attacker would
+have full control over the system due to the server running as
+the root user.
+
+Consider running as an unprivileged user made specifically for
+this server (such as 'vcmp') to prevent such a situation from
+occurring.
+
+If you are sure that you want to run the server as root, add
+-allow-server-runas-root to the end of your server run command
+(e.g. ./server -allow-server-runas-root).
+
+Exiting.

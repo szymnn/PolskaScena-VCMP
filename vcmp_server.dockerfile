@@ -7,3 +7,5 @@ HEALTHCHECK CMD nmap -sU -p 5192 localhost | grep open || exit 1
 CMD tail -f /dev/null
 EXPOSE 5192/tcp
 EXPOSE 5192/udp
+EXPOSE 8192/tcp
+EXPOSE 8192/udp

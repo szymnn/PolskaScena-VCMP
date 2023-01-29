@@ -1,0 +1,624 @@
+**RUNNING THE SERVER AS ROOT IS HIGHLY UNRECOMMENDED.**
+
+Should an exploit be found in the server or any modules you may
+be running that allows remote code execution, an attacker would
+have full control over the system due to the server running as
+the root user.
+
+Consider running as an unprivileged user made specifically for
+this server (such as 'vcmp') to prevent such a situation from
+occurring.
+
+If you are sure that you want to run the server as root, add
+-allow-server-runas-root to the end of your server run command
+(e.g. ./server -allow-server-runas-root).
+
+Exiting.
+**RUNNING THE SERVER AS ROOT IS HIGHLY UNRECOMMENDED.**
+
+Should an exploit be found in the server or any modules you may
+be running that allows remote code execution, an attacker would
+have full control over the system due to the server running as
+the root user.
+
+Consider running as an unprivileged user made specifically for
+this server (such as 'vcmp') to prevent such a situation from
+occurring.
+
+If you are sure that you want to run the server as root, add
+-allow-server-runas-root to the end of your server run command
+(e.g. ./server -allow-server-runas-root).
+
+Exiting.
+**RUNNING THE SERVER AS ROOT IS HIGHLY UNRECOMMENDED.**
+
+Should an exploit be found in the server or any modules you may
+be running that allows remote code execution, an attacker would
+have full control over the system due to the server running as
+the root user.
+
+Consider running as an unprivileged user made specifically for
+this server (such as 'vcmp') to prevent such a situation from
+occurring.
+
+If you are sure that you want to run the server as root, add
+-allow-server-runas-root to the end of your server run command
+(e.g. ./server -allow-server-runas-root).
+
+Exiting.
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;30m[WARNING][0;37m Could not load script 'pszv5.nut'
+[0;30m[WARNING][0;37m cannot open the file
+[0;30m[WARNING][0;37m Could not load script 'extensions/Autoload/autoload.nut'
+[0;30m[WARNING][0;37m cannot open the file
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;30m[WARNING][0;37m Could not load script 'pszv5.nut'
+[0;30m[WARNING][0;37m cannot open the file
+[0;30m[WARNING][0;37m Could not load script 'extensions/Autoload/autoload.nut'
+[0;30m[WARNING][0;37m cannot open the file
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;30m[WARNING][0;37m Could not load script 'pszv5.nut'
+[0;30m[WARNING][0;37m cannot open the file
+[0;30m[WARNING][0;37m Could not load script '/extensions/Autoload/autoload.nut'
+[0;30m[WARNING][0;37m cannot open the file
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;30m[WARNING][0;37m Could not load script 'pszv5.nut'
+[0;30m[WARNING][0;37m cannot open the file
+[0;30m[WARNING][0;37m Could not load script 'extensions/autoload/autoload.nut'
+[0;30m[WARNING][0;37m cannot open the file
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;30m[WARNING][0;37m Could not load script 'pszv5.nut'
+[0;30m[WARNING][0;37m cannot open the file
+[0;30m[WARNING][0;37m Could not load script 'extensions/Autoload/autoload.nut'
+[0;30m[WARNING][0;37m cannot open the file
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;30m[WARNING][0;37m Could not load script 'pszv5.nut'
+[0;30m[WARNING][0;37m cannot open the file
+[0;30m[WARNING][0;37m Could not load script 'autoload.nut'
+[0;30m[WARNING][0;37m cannot open the file
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;30m[WARNING][0;37m Could not load script 'pszv5.nut'
+[0;30m[WARNING][0;37m cannot open the file
+[0;30m[WARNING][0;37m Could not load script 'a.nut'
+[0;30m[WARNING][0;37m cannot open the file
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;30m[WARNING][0;37m Could not load script 'pszv5.nut'
+[0;30m[WARNING][0;37m cannot open the file
+[0;30m[WARNING][0;37m Could not load script 'a.nut'
+[0;30m[WARNING][0;37m cannot open the file
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;30m[WARNING][0;37m Could not load script 'a.nut'
+[0;30m[WARNING][0;37m cannot open the file
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;30m[WARNING][0;37m Could not load script '"a.nut"'
+[0;30m[WARNING][0;37m cannot open the file
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;30m[WARNING][0;37m Could not load script 'a.nut'
+[0;30m[WARNING][0;37m cannot open the file
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;30m[WARNING][0;37m Could not load script '/home/vcmp/a.nut'
+[0;30m[WARNING][0;37m cannot open the file
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;30m[WARNING][0;37m Could not load script 'a.nut'
+[0;30m[WARNING][0;37m cannot open the file
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;30m[WARNING][0;37m Could not load script 'a.nut'
+[0;30m[WARNING][0;37m cannot open the file
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;30m[WARNING][0;37m Could not load script 'main.nut'
+[0;30m[WARNING][0;37m cannot open the file
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;30m[WARNING][0;37m Could not load script 'scripts/main.nut'
+[0;30m[WARNING][0;37m cannot open the file
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;30m[WARNING][0;37m Could not load script 'extensions/Autoload/autoload.nut'
+[0;30m[WARNING][0;37m cannot open the file
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;30m[WARNING][0;37m Could not load script 'extensions/Autoload/autoload.nut'
+[0;30m[WARNING][0;37m cannot open the file
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;30m[WARNING][0;37m Could not load script 'extensions/Autoload/autoload.nut'
+[0;30m[WARNING][0;37m cannot open the file
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;30m[WARNING][0;37m Could not load script 'extensions/Autoload/autoload.nut'
+[0;30m[WARNING][0;37m cannot open the file
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  1
+announcer: Failed to store response from master.vc-mp.org
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  1
+announcer: Failed to store response from master.vc-mp.org
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  0
+announcer: Failed to store response from master.vc-mp.org
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  autoload.nut
+announcer: Failed to store response from master.vc-mp.org
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [cannot open the file]
+
+CALLSTACK
+*FUNCTION [autoload_register()] extensions/Autoload/autoload.nut line [8]
+*FUNCTION [onScriptLoad()] extensions/Autoload/autoload.nut line [2]
+
+LOCALS
+[filename] "autoload.nut"
+[file] "autoload"
+[this] TABLE
+[this] TABLE
+[WARNING] onScriptLoad failed to execute -- check the console for more details.
+announcer: Failed to store response from master.vc-mp.org
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  readfile.nut
+announcer: Failed to store response from master.vc-mp.org
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [cannot open the file]
+
+CALLSTACK
+*FUNCTION [autoload_register()] extensions/Autoload/autoload.nut line [8]
+*FUNCTION [onScriptLoad()] extensions/Autoload/autoload.nut line [2]
+
+LOCALS
+[filename] "readfile.nut"
+[file] "readfile"
+[this] TABLE
+[this] TABLE
+[WARNING] onScriptLoad failed to execute -- check the console for more details.
+announcer: Failed to store response from master.vc-mp.org
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [cannot open the file]
+
+CALLSTACK
+*FUNCTION [autoload_register()] extensions/Autoload/autoload.nut line [8]
+*FUNCTION [onScriptLoad()] extensions/Autoload/autoload.nut line [2]
+
+LOCALS
+[filename] "readfile.nut"
+[file] "readfile"
+[this] TABLE
+[this] TABLE
+[WARNING] onScriptLoad failed to execute -- check the console for more details.
+announcer: Failed to store response from master.vc-mp.org
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [cannot open the file]
+
+CALLSTACK
+*FUNCTION [autoload_register()] extensions/Autoload/autoload.nut line [8]
+*FUNCTION [onScriptLoad()] extensions/Autoload/autoload.nut line [2]
+
+LOCALS
+[filename] "readfile.nut"
+[file] "readfile"
+[this] TABLE
+[this] TABLE
+[WARNING] onScriptLoad failed to execute -- check the console for more details.
+announcer: Failed to store response from master.vc-mp.org
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [cannot open the file]
+
+CALLSTACK
+*FUNCTION [autoload_register()] extensions/Autoload/autoload.nut line [8]
+*FUNCTION [onScriptLoad()] extensions/Autoload/autoload.nut line [2]
+
+LOCALS
+[filename] "readfile.nut"
+[file] "readfile"
+[this] TABLE
+[this] TABLE
+[WARNING] onScriptLoad failed to execute -- check the console for more details.
+announcer: Failed to store response from master.vc-mp.org
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  readfile.nut
+announcer: Failed to store response from master.vc-mp.org
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [cannot open the file]
+
+CALLSTACK
+*FUNCTION [autoload_register()] extensions/Autoload/autoload.nut line [8]
+*FUNCTION [onScriptLoad()] extensions/Autoload/autoload.nut line [2]
+
+LOCALS
+[filename] "readfile.nut"
+[file] "readfile"
+[this] TABLE
+[this] TABLE
+[WARNING] onScriptLoad failed to execute -- check the console for more details.
+announcer: Failed to store response from master.vc-mp.org
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  readfile.nut
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;30m[WARNING][0;37m Could not load script 'extensions/Autoload/autoload.nut'
+[0;30m[WARNING][0;37m cannot open the file
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;30m[WARNING][0;37m Could not load script 'a.nut'
+[0;30m[WARNING][0;37m cannot open the file
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;30m[WARNING][0;37m Could not load script 'extension/Autoload/autoload.nut'
+[0;30m[WARNING][0;37m cannot open the file
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;30m[WARNING][0;37m Could not load script '/extension/Autoload/autoload.nut'
+[0;30m[WARNING][0;37m cannot open the file
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m (null : 0x(nil))
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m 0readfile.nut
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m 0readfile.nut
+
+AN ERROR HAS OCCURED [cannot open the file]
+
+CALLSTACK
+*FUNCTION [autoload_register()] extensions/Autoload/autoload.nut line [8]
+*FUNCTION [onScriptLoad()] extensions/Autoload/autoload.nut line [2]
+
+LOCALS
+[path] "0readfile.nut"
+[filename] "readfile.nut"
+[file] "readfile"
+[this] TABLE
+[this] TABLE
+[0;30m[WARNING][0;37m onScriptLoad failed to execute -- check the console for more details.
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [cannot open the file]
+
+CALLSTACK
+*FUNCTION [autoload_register()] extensions/Autoload/autoload.nut line [8]
+*FUNCTION [onScriptLoad()] extensions/Autoload/autoload.nut line [2]
+
+LOCALS
+[filename] "readfile.nut"
+[file] "readfile"
+[this] TABLE
+[this] TABLE
+[0;30m[WARNING][0;37m onScriptLoad failed to execute -- check the console for more details.
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [cannot open the file]
+
+CALLSTACK
+*FUNCTION [autoload_register()] extensions/Autoload/autoload.nut line [8]
+*FUNCTION [onScriptLoad()] extensions/Autoload/autoload.nut line [2]
+
+LOCALS
+[filename] "readfile.nut"
+[file] "readfile"
+[this] TABLE
+[this] TABLE
+[0;30m[WARNING][0;37m onScriptLoad failed to execute -- check the console for more details.
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m (null : 0x(nil))
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [cannot open the file]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Autoload/autoload.nut line [4]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [cannot open the file]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m announcer: Failed to store response from master.vc-mp.org
+Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m cannot open the file
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/init.nut line [4]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m wrong number of parameters
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m 1674985949
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/init.nut line [4]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m wrong number of parameters
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m (null : 0x(nil))
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m (null : 0x(nil))
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [parameter 1 has an invalid type 'integer' ; expected: 'string']
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/init.nut line [4]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m parameter 1 has an invalid type 'integer' ; expected: 'string'
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m (null : 0x(nil))
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m (null : 0x(nil))
+[0;36m[SCRIPT][0;37m 0
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+[0;36m[SCRIPT][0;37m 0
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m /home/vcmp
+[0;36m[SCRIPT][0;37m 0
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m /home/vcmp
+[0;36m[SCRIPT][0;37m 0
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m /home/vcmp
+[0;36m[SCRIPT][0;37m 0
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)

@@ -622,3 +622,4229 @@ announcer: Failed to store response from master.vc-mp.org
 [0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
 announcer: Failed to store response from master.vc-mp.org
 [0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m 0
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m 0
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m 0
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m 0
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [cannot open the file]
+
+CALLSTACK
+*FUNCTION [main()] /home/vcmp/modules/database/loader.nut line [1]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Autoload/autoload.nut line [7]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [cannot open the file]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Autoload/autoload.nut line [7]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [cannot open the file]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m cannot open the file
+[0;30m[ERROannouncer: Failed to store response from master.vc-mp.org
+R][0;37m No Squirrel gamemode was specified.
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED ['break' has to be in a loop block]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Autoload/autoload.nut line [7]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED ['break' has to be in a loop block]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLannouncer: Failed to store response from master.vc-mp.org
+E
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m 'break' has to be in a loop block
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/init.nut line [4]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m wrong number of parameters
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [the index 'Namepsace' does not exist]
+
+CALLSTACK
+*FUNCTION [parse()] /home/vcmp/modules/namespace/init.nut line [19]
+*FUNCTION [constructor()] /home/vcmp/modules/namespace/init.nut line [7]
+*FUNCTION [main()] extensions/Kernel/init.nut line [4]
+
+LOCALS
+[this] INSTANCE
+[var] "test"
+[this] INSTANCE
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0announcer: Failed to store response from master.vc-mp.org
+;37m the index 'Namepsace' does not exist
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [the index 'empty' does not exist]
+
+CALLSTACK
+*FUNCTION [parse()] /home/vcmp/modules/namespace/init.nut line [20]
+*FUNCTION [constructor()] /home/vcmp/modules/namespace/init.nut line [7]
+*FUNCTION [main()] extensions/Kernel/init.nut line [4]
+
+LOCALS
+[parse] ARRAY
+[this] INSTANCE
+[var] "test"
+[this] INSTANCE
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[Wannouncer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+ARNING][0;37m the index 'empty' does not exist
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m array
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m array
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [expression expected]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/init.nut line [3]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m expression expected
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m array
+[0;36m[SCRIPT][0;37m (array : 0x0x55b20a007c60)
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m array
+[0;36m[SCRIPT][0;37m (array : 0x0x555afd1a4c60)
+
+AN ERROR HAS OCCURED [the index 'exit' does not exist]
+
+CALLSTACK
+*FUNCTION [empty()] extensions/Kernel/baseFunction.nut line [6]
+*FUNCTION [parse()] /home/vcmp/modules/namespace/init.nut line [20]
+*FUNCTION [constructor()] /home/vcmp/modules/namespace/init.nut line [7]
+*FUNCTION [main()] extensions/Kernel/init.nut line [4]
+
+LOCALS
+[@ITERATOR@] 1
+[var] ARRAY
+[announcer: Failed to store response from master.vc-mp.org
+@INDEX@] 0
+[vargv] ARRAY
+[this] INSTANCE
+[parse] ARRAY
+[this] INSTANCE
+[var] "test"
+[this] INSTANCE
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m the index 'exit' does not exist
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m array
+[0;36m[SCRIPT][0;37m (array : 0x0x55f151160c60)
+
+AN ERROR HAS OCCURED [the index 'exit' does not exist]
+
+CALLSTACK
+*FUNCTION [empty()] extensions/Kernel/baseFunction.nut line [6]
+*FUNCTION [parse()] /home/vcmp/modules/namespace/init.nut line [20]
+*FUNCTION [constructor()] /home/vcmp/modules/namespace/init.nut line [7]
+*FUNCTION [main()] extensions/Kernel/init.nut line [4]
+
+LOCALS
+[@ITERATOR@] 1
+[var] ARRAY
+[announcer: Failed to store response from master.vc-mp.org
+@INDEX@] 0
+[vargv] ARRAY
+[this] INSTANCE
+[parse] ARRAY
+[this] INSTANCE
+[var] "test"
+[this] INSTANCE
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m the index 'exit' does not exist
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m array
+[0;36m[SCRIPT][0;37m (array : 0x0x556962cdcc60)
+[0;36m[SCRIPT][0;37m somethig is wrong
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [the index 'Namespce' does not exist]
+
+CALLSTACK
+*FUNCTION [parse()] /home/vcmp/modules/namespace/init.nut line [19]
+*FUNCTION [constructor()] /home/vcmp/modules/namespace/init.nut line [7]
+*FUNCTION [main()] extensions/Kernel/init.nut line [4]
+
+LOCALS
+[this] INSTANCE
+[var] "test"
+[this] INSTANCE
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;announcer: Failed to store response from master.vc-mp.org
+37m the index 'Namespce' does not exist
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m array
+[0;36m[SCRIPT][0;37m (array : 0x0x55bed2f57730)
+[0;36m[SCRIPT][0;37m somethig is wrong
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m (array : 0x0x55cd0a68b430)
+[0;36m[SCRIPT][0;37m array
+[0;36m[SCRIPT][0;37m (array : 0x0x55cd0a68b430)
+[0;36m[SCRIPT][0;37m somethig is wrong
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m string
+[0;36m[SCRIPT][0;37m aaa
+[0;36m[SCRIPT][0;37m bb
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m string
+[0;36m[SCRIPT][0;37m aaa
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m bb
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m (array : 0x0x561d0a148580)
+[0;36m[SCRIPT][0;37m somethig is wrong
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m true
+[0;36m[SCRIPT][0;37m true
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [the index 'vargv' does not exist]
+
+CALLSTACK
+*FUNCTION [dd()] extensions/Kernel/baseFunction.nut line [16]
+*FUNCTION [parse()] /home/vcmp/modules/namespace/init.nut line [26]
+*FUNCTION [constructor()] /home/vcmp/modules/namespace/init.nut line [7]
+*FUNCTION [main()] extensions/Kernel/init.nut line [4]
+
+LOCALS
+[vargv] ARRAY
+[this] INSTANCE
+[parse] ARRAY
+[this] INSTANCE
+[var] "test"
+[this] INSTANCE
+[vargv] ARRAY
+[thisannouncer: Failed to store response from master.vc-mp.org
+] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m the index 'vargv' does not exist
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [the index 'var' does not exist]
+
+CALLSTACK
+*FUNCTION [dd()] extensions/Kernel/baseFunction.nut line [16]
+*FUNCTION [parse()] /home/vcmp/modules/namespace/init.nut line [26]
+*FUNCTION [constructor()] /home/vcmp/modules/namespace/init.nut line [7]
+*FUNCTION [main()] extensions/Kernel/init.nut line [4]
+
+LOCALS
+[@ITERATOR@] 1
+[var] "test"
+[@INDEX@] 0
+[vargv] ARRAY
+[this] INSTANCE
+[parse] ARRAY
+[this] INSTANCE
+[var] "tesannouncer: Failed to store response from master.vc-mp.org
+t"
+[this] INSTANCE
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m the index 'var' does not exist
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m Debug: test
+[0;36m[SCRIPT][0;37m Debug: aaa
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m Debug: (array : 0x0x5647590bada0)
+[0;36m[SCRIPT][0;37m Debug: test
+[0;36m[SCRIPT][0;37m Debug: aaa
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m DEBUG:  test aaa
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m DEBUG:test type: string 
+aaa type: string 
+
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m DEBUG:
+test type: string 
+aaa type: string 
+
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m DEBUG:
+test type: stringlenght: 4 
+aaa type: stringlenght: 3 
+
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [the index 'echo' does not exist]
+
+CALLSTACK
+*FUNCTION [dd()] extensions/Kernel/baseFunction.nut line [21]
+*FUNCTION [parse()] /home/vcmp/modules/namespace/init.nut line [26]
+*FUNCTION [constructor()] /home/vcmp/modules/namespace/init.nut line [7]
+*FUNCTION [main()] extensions/Kernel/init.nut line [4]
+
+LOCALS
+[fullyResponse] ""
+[response] "
+test type: stringlenght: [4] 
+aaa type: stringlenght: [3] 
+"
+[vargv] ARRAY
+[tannouncer: Failed to store response from master.vc-mp.org
+his] INSTANCE
+[parse] ARRAY
+[this] INSTANCE
+[var] "test"
+[this] INSTANCE
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m the index 'echo' does not exist
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m  DEBUG:
+test type: stringlenght: [4] 
+aaa type: stringlenght: [3] 
+
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m DEBUG:
+test type: stringlenght: [4] 
+aaa type: stringlenght: [3] 
+
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m DEBUG:
+virable [ test ] type: [ string ] lenght: [ 4 ] 
+virable [ aaa ] type: [ string ] lenght: [ 3 ] 
+
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [the index 'len' does not exist]
+
+CALLSTACK
+*FUNCTION [dd()] extensions/Kernel/baseFunction.nut line [17]
+*FUNCTION [parse()] /home/vcmp/modules/namespace/init.nut line [26]
+*FUNCTION [constructor()] /home/vcmp/modules/namespace/init.nut line [7]
+*FUNCTION [main()] extensions/Kernel/init.nut line [4]
+
+LOCALS
+[@ITERATOR@] 3
+[var] 1
+[@INDEX@] 2
+[response] "
+virable [ test ] type: [ string ] lenght: [ 4 ] 
+virable [ aaaannouncer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+ ] type: [ string ] lenght: [ 3 ] 
+"
+[vargv] ARRAY
+[this] INSTANCE
+[parse] ARRAY
+[this] INSTANCE
+[var] "test"
+[this] INSTANCE
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m the index 'len' does not exist
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m DEBUG:
+virable [ test ] type: [ string ]lenght: [ 4 ] 
+virable [ aaa ] type: [ string ]lenght: [ 3 ] 
+virable [ 1 ] type: [ integer ]
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m DEBUG:
+virable [ test ] type: [ string ] lenght: [ 4 ] 
+virable [ aaa ] type: [ string ] lenght: [ 3 ] 
+virable [ 1 ] type: [ integer ]
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ test ] type: [ string ] lenght: [ 4 ] 
+virable given [ aaa ] type: [ string ] lenght: [ 3 ] 
+virable given [ 1 ] type: [ integer ]
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [the index 'exit' does not exist]
+
+CALLSTACK
+*FUNCTION [parse()] /home/vcmp/modules/namespace/init.nut line [26]
+*FUNCTION [constructor()] /home/vcmp/modules/namespace/init.nut line [7]
+*FUNCTION [main()] extensions/Kernel/init.nut line [4]
+
+LOCALS
+[@ITERATOR@] 1
+[data] "aaa"
+[@INDEX@] 0
+[parse] ARRAY
+[this] INSTANCE
+[var] "test"
+[this] INSTANCE
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load scriptannouncer: Failed to store response from master.vc-mp.org
+ 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m the index 'exit' does not exist
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED ['break' has to be in a loop block]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/init.nut line [3]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m 'break' has to be in a loop block
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [comparison between 'function' and '0']
+
+CALLSTACK
+*FUNCTION [parse()] /home/vcmp/modules/namespace/init.nut line [21]
+*FUNCTION [constructor()] /home/vcmp/modules/namespace/init.nut line [7]
+*FUNCTION [main()] extensions/Kernel/init.nut line [4]
+
+LOCALS
+[parse] ARRAY
+[this] INSTANCE
+[var] "test"
+[this] INSTANCE
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;announcer: Failed to store response from master.vc-mp.org
+30m[WARNING][0;37m comparison between 'function' and '0'
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [comparison between 'function' and '0']
+
+CALLSTACK
+*FUNCTION [parse()] /home/vcmp/modules/namespace/init.nut line [21]
+*FUNCTION [constructor()] /home/vcmp/modules/namespace/init.nut line [7]
+*FUNCTION [main()] extensions/Kernel/init.nut line [4]
+
+LOCALS
+[parse] ARRAY
+[this] INSTANCE
+[var] "test"
+[this] INSTANCE
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;announcer: Failed to store response from master.vc-mp.org
+30m[WARNING][0;37m comparison between 'function' and '0'
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m 1
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m 1
+[0;36m[SCRIPT][0;37m array
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m 1
+[0;36m[SCRIPT][0;37m array
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m 1
+[0;36m[SCRIPT][0;37m array
+[0;36m[SCRIPT][0;37m OK
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m 1
+[0;36m[SCRIPT][0;37m array
+[0;36m[SCRIPT][0;37m somethig is wrong
+
+AN ERROR HAS OCCURED [the index 'exit' does not exist]
+
+CALLSTACK
+*FUNCTION [die()] extensions/Kernel/baseFunction.nut line [11]
+*FUNCTION [parse()] /home/vcmp/modules/namespace/init.nut line [25]
+*FUNCTION [constructor()] /home/vcmp/modules/namespace/init.nut line [7]
+*FUNCTION [main()] extensions/Kernel/init.nut line [4]
+
+LOCALS
+[this] INSTANannouncer: Failed to store response from master.vc-mp.org
+CE
+[parse] ARRAY
+[this] INSTANCE
+[var] "test"
+[this] INSTANCE
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m the index 'exit' does not exist
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m 1
+[0;36m[SCRIPT][0;37m array
+[0;36m[SCRIPT][0;37m somethig is wrong
+[0;36m[SCRIPT][0;37m OK
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED ['break' has to be in a loop block]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Autoload/autoload.nut line [7]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED ['break' has to be in a loop block]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLannouncer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+E
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m 'break' has to be in a loop block
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED ['break' has to be in a loop block]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Autoload/autoload.nut line [7]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED ['break' has to be in a loop block]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLannouncer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+E
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m 'break' has to be in a loop block
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m 1
+[0;36m[SCRIPT][0;37m array
+[0;36m[SCRIPT][0;37m somethig is wrong
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ a ] type: [ string ] lenght: [ 1 ] 
+
+[0;36m[SCRIPT][0;37m a
+[0;36m[SCRIPT][0;37m OK
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m 1
+[0;36m[SCRIPT][0;37m array
+[0;36m[SCRIPT][0;37m somethig is wrong
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ a ] type: [ string ] lenght: [ 1 ] 
+
+[0;36m[SCRIPT][0;37m gfdgdfdfg
+[0;36m[SCRIPT][0;37m OK
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m 1
+[0;36m[SCRIPT][0;37m array
+[0;36m[SCRIPT][0;37m somethig is wrong
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m 1
+[0;36m[SCRIPT][0;37m array
+[0;36m[SCRIPT][0;37m The namepsace given has wrong syntax
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m 1
+[0;36m[SCRIPT][0;37m array
+[0;36m[SCRIPT][0;37m The namepsace given has wrong syntax
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m The namepsace given has wrong syntax
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [expected '{']
+
+CALLSTACK
+*FUNCTION [main()] extensions/Autoload/autoload.nut line [7]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [expected '{']
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load sannouncer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+cript 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m expected '{'
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [the index 'HSQUIRRELVM' does not exist]
+
+CALLSTACK
+*FUNCTION [constructor()] /home/vcmp/modules/namespace/init.nut line [6]
+*FUNCTION [main()] extensions/Kernel/init.nut line [4]
+
+LOCALS
+[var] "test"
+[this] INSTANCE
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m the index 'HSQUIRRELVM' does not exist
+[0;30m[ERROR][0;37m No Squirrel gameannouncer: Failed to store response from master.vc-mp.org
+mode was specified.
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [expression expected]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Autoload/autoload.nut line [7]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [expression expected]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Coannouncer: Failed to store response from master.vc-mp.org
+uld not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m expression expected
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [the index 'SQUIRREL_API' does not exist]
+
+CALLSTACK
+*FUNCTION [constructor()] /home/vcmp/modules/namespace/init.nut line [6]
+*FUNCTION [main()] extensions/Kernel/init.nut line [4]
+
+LOCALS
+[var] "test"
+[this] INSTANCE
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m the index 'SQUIRREL_API' does not exist
+[0;30m[ERROR][0;37m No Squirrel gaannouncer: Failed to store response from master.vc-mp.org
+memode was specified.
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [the index 'sq_setdebughook' does not exist]
+
+CALLSTACK
+*FUNCTION [main()] /home/vcmp/modules/namespace/init.nut line [1]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Autoload/autoload.nut line [7]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'sq_setdebughook' does not exist]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Autoload/autoload.nut line [7]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'sq_setdebughook' does not exist]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/inannouncer: Failed to store response from master.vc-mp.org
+it.nut'
+[0;30m[WARNING][0;37m the index 'sq_setdebughook' does not exist
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [the index 'sq_getlocal' does not exist]
+
+CALLSTACK
+*FUNCTION [main()] /home/vcmp/modules/namespace/init.nut line [1]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Autoload/autoload.nut line [7]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'sq_getlocal' does not exist]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Autoload/autoload.nut line [7]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'sq_getlocal' does not exist]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;announcer: Failed to store response from master.vc-mp.org
+30m[WARNING][0;37m the index 'sq_getlocal' does not exist
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [the index 'sq_getlocal' does not exist]
+
+CALLSTACK
+*FUNCTION [main()] /home/vcmp/modules/namespace/init.nut line [1]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Autoload/autoload.nut line [7]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'sq_getlocal' does not exist]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Autoload/autoload.nut line [7]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'sq_getlocal' does not exist]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+30m[WARNING][0;37m the index 'sq_getlocal' does not exist
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/init.nut line [4]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m wrong number of parameters
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/init.nut line [4]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m wrong number of parameters
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/init.nut line [4]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m wrong number of parameters
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/init.nut line [4]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m wrong number of parameters
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [main()] /home/vcmp/modules/namespace/init.nut line [1]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Autoload/autoload.nut line [7]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Autoload/autoload.nut line [7]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m wrong number of announcer: Failed to store response from master.vc-mp.org
+parameters
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [main()] /home/vcmp/modules/namespace/init.nut line [1]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Autoload/autoload.nut line [7]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Autoload/autoload.nut line [7]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m wrong number of announcer: Failed to store response from master.vc-mp.org
+parameters
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [main()] /home/vcmp/modules/namespace/init.nut line [1]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Autoload/autoload.nut line [7]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Autoload/autoload.nut line [7]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m wrong number of announcer: Failed to store response from master.vc-mp.org
+parameters
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [main()] /home/vcmp/modules/namespace/init.nut line [1]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Autoload/autoload.nut line [7]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Autoload/autoload.nut line [7]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m wrong number of announcer: Failed to store response from master.vc-mp.org
+parameters
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/init.nut line [4]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m wrong number of parameters
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [the index 'Namespace' does not exist]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/init.nut line [4]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m the index 'Namespace' does not exist
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [the index 'NamespaceController' does not exist]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/init.nut line [4]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m the index 'NamespaceController' does not exist
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/init.nut line [4]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m wrong number of parameters
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/init.nut line [4]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m wrong number of parameters
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m The namepsace given has wrong syntax
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m the index 'int' does not exist
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m wrong virable type, required [ int ] integer given
+[0;36m[SCRIPT][0;37m (null : 0x(nil))
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m true
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m wrong virable type, required [ int ] integer given
+[0;36m[SCRIPT][0;37m (null : 0x(nil))
+[0;36m[SCRIPT][0;37m ok
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m true
+[0;36m[SCRIPT][0;37m ok
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m wrong virable type, required [ integer ] string given
+[0;36m[SCRIPT][0;37m (null : 0x(nil))
+[0;36m[SCRIPT][0;37m ok
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m the index 'a' does not exist
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m the index 'a' does not exist
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m class instances do not support the new slot operator
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m wrong virable type, required [ integer ] string given
+[0;36m[SCRIPT][0;37m (null : 0x(nil))
+[0;36m[SCRIPT][0;37m ok
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m wrong virable type, required [ integer ] string given
+[0;36m[SCRIPT][0;37m (null : 0x(nil))
+[0;36m[SCRIPT][0;37m ok
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+
+AN ERROR HAS OCCURED [the index 'DependecyAbstractClass' does not exist]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/DependecyClasses/IntegerClass.nut line [1]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/DependecyInjection.nut line [1]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [4]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'DependecyAbstractClass' does not exist]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/DependecyInjection.nut line [1]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [4]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'DependecyAbstractClass' does not exist]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/init.nut line [4]
+
+LOCALS
+[vannouncer: Failed to store response from master.vc-mp.org
+argv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m the index 'DependecyAbstractClass' does not exist
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m wrong virable type, required [ integer ] string given
+[0;36m[SCRIPT][0;37m (instance : 0x0x559bbd1d04e0)
+[0;36m[SCRIPT][0;37m ok
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m wrong virable type, required [ integer ] string given
+[0;36m[SCRIPT][0;37m wrong virable type, required [ integer ] integer given
+[0;36m[SCRIPT][0;37m (instance : 0x0x5626a1ddd4e0)
+[0;36m[SCRIPT][0;37m (instance : 0x0x5626a1d82020)
+[0;36m[SCRIPT][0;37m ok
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m wrong virable type, required [ integer ] string given
+[0;36m[SCRIPT][0;37m wrong virable type, required [ integer ] integer given
+[0;36m[SCRIPT][0;37m (instance : 0x0x559c19c3e4e0)
+[0;36m[SCRIPT][0;37m (instance : 0x0x559c19be3020)
+[0;36m[SCRIPT][0;37m (instance : 0x0x559c19c40920)
+[0;36m[SCRIPT][0;37m ok
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m wrong virable type, required [ integer ] string given
+[0;36m[SCRIPT][0;37m wrong virable type, required [ string ] integer given
+[0;36m[SCRIPT][0;37m (instance : 0x0x563154daf4e0)
+[0;36m[SCRIPT][0;37m (instance : 0x0x563154d54020)
+[0;36m[SCRIPT][0;37m (instance : 0x0x563154db9920)
+[0;36m[SCRIPT][0;37m ok
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m wrong virable type, required [ integer ] string given
+[0;36m[SCRIPT][0;37m wrong virable type, required [ string ] integer given
+[0;36m[SCRIPT][0;37m instance
+[0;36m[SCRIPT][0;37m (instance : 0x0x55b1ed3e04e0)
+[0;36m[SCRIPT][0;37m (instance : 0x0x55b1ed385020)
+[0;36m[SCRIPT][0;37m (instance : 0x0x55b1ed3ea260)
+[0;36m[SCRIPT][0;37m ok
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m wrong virable type, required [ integer ] string given
+[0;36m[SCRIPT][0;37m wrong virable type, required [ string ] integer given
+[0;36m[SCRIPT][0;37m wrong number of parameters
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m wrong virable type, required [ integer ] string given
+[0;36m[SCRIPT][0;37m wrong virable type, required [ string ] integer given
+[0;36m[SCRIPT][0;37m instance
+[0;36m[SCRIPT][0;37m (instance : 0x0x559eb47f44e0)
+[0;36m[SCRIPT][0;37m (instance : 0x0x559eb4799020)
+[0;36m[SCRIPT][0;37m (instance : 0x0x559eb47fc010)
+[0;36m[SCRIPT][0;37m ok
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m wrong virable type, required [ integer ] string given
+[0;36m[SCRIPT][0;37m wrong virable type, required [ string ] integer given
+[0;36m[SCRIPT][0;37m parameter 1 has an invalid type 'instance' ; expected: 'integer|float'
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m wrong virable type, required [ integer ] string given
+[0;36m[SCRIPT][0;37m wrong virable type, required [ string ] integer given
+[0;36m[SCRIPT][0;37m wrong virable type, required [ float ] integer given
+[0;36m[SCRIPT][0;37m parameter 1 has an invalid type 'instance' ; expected: 'integer|float'
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m wrong virable type, required [ integer ] string given
+[0;36m[SCRIPT][0;37m wrong virable type, required [ string ] integer given
+[0;36m[SCRIPT][0;37m 4
+[0;36m[SCRIPT][0;37m (instance : 0x0x55f1418d34e0)
+[0;36m[SCRIPT][0;37m (instance : 0x0x55f141878020)
+[0;36m[SCRIPT][0;37m (instance : 0x0x55f1418ddf30)
+[0;36m[SCRIPT][0;37m ok
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m wrong virable type, required [ integer ] string given
+[0;36m[SCRIPT][0;37m wrong virable type, required [ string ] integer given
+[0;36m[SCRIPT][0;37m 0.1
+[0;36m[SCRIPT][0;37m (instance : 0x0x5587efacf4e0)
+[0;36m[SCRIPT][0;37m (instance : 0x0x5587efa74020)
+[0;36m[SCRIPT][0;37m (instance : 0x0x5587efad9f30)
+[0;36m[SCRIPT][0;37m ok
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m wrong virable type, required [ integer ] string given
+[0;36m[SCRIPT][0;37m wrong virable type, required [ string ] integer given
+[0;36m[SCRIPT][0;37m float
+[0;36m[SCRIPT][0;37m (instance : 0x0x55c280cfb4e0)
+[0;36m[SCRIPT][0;37m (instance : 0x0x55c280ca0020)
+[0;36m[SCRIPT][0;37m (instance : 0x0x55c280d05ee0)
+[0;36m[SCRIPT][0;37m ok
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m wrong virable type, required [ integer ] string given
+[0;36m[SCRIPT][0;37m wrong virable type, required [ string ] integer given
+[0;36m[SCRIPT][0;37m integer
+[0;36m[SCRIPT][0;37m (instance : 0x0x55ebc73bd4e0)
+[0;36m[SCRIPT][0;37m (instance : 0x0x55ebc7362020)
+[0;36m[SCRIPT][0;37m (instance : 0x0x55ebc73c7ee0)
+[0;36m[SCRIPT][0;37m ok
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m wrong virable type, required [ integer ] string given
+[0;36m[SCRIPT][0;37m wrong virable type, required [ string ] integer given
+[0;36m[SCRIPT][0;37m float
+[0;36m[SCRIPT][0;37m (instance : 0x0x55dd9ec154e0)
+[0;36m[SCRIPT][0;37m (instance : 0x0x55dd9ebba020)
+[0;36m[SCRIPT][0;37m (instance : 0x0x55dd9ec1fee0)
+[0;36m[SCRIPT][0;37m ok
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m wrong virable type, required [ integer ] string given
+[0;36m[SCRIPT][0;37m wrong virable type, required [ string ] integer given
+[0;36m[SCRIPT][0;37m 0.1
+[0;36m[SCRIPT][0;37m float
+[0;36m[SCRIPT][0;37m (instance : 0x0x55f45d0424e0)
+[0;36m[SCRIPT][0;37m (instance : 0x0x55f45cfe7020)
+[0;36m[SCRIPT][0;37m (instance : 0x0x55f45d04cee0)
+[0;36m[SCRIPT][0;37m ok
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m wrong virable type, required [ integer ] string given
+[0;36m[SCRIPT][0;37m wrong virable type, required [ string ] integer given
+[0;36m[SCRIPT][0;37m float
+[0;36m[SCRIPT][0;37m (instance : 0x0x56100a1794e0)
+[0;36m[SCRIPT][0;37m (instance : 0x0x56100a11e020)
+[0;36m[SCRIPT][0;37m (instance : 0x0x56100a183ee0)
+[0;36m[SCRIPT][0;37m ok
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m wrong virable type, required [ integer ] string given
+[0;36m[SCRIPT][0;37m wrong virable type, required [ string ] integer given
+[0;36m[SCRIPT][0;37m 0.1
+[0;36m[SCRIPT][0;37m float
+[0;36m[SCRIPT][0;37m (instance : 0x0x55db79b594e0)
+[0;36m[SCRIPT][0;37m (instance : 0x0x55db79afe020)
+[0;36m[SCRIPT][0;37m (instance : 0x0x55db79b63ee0)
+[0;36m[SCRIPT][0;37m ok
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m wrong virable type, required [ integer ] string given
+[0;36m[SCRIPT][0;37m wrong virable type, required [ string ] integer given
+[0;36m[SCRIPT][0;37m 0.1
+[0;36m[SCRIPT][0;37m float
+[0;36m[SCRIPT][0;37m (instance : 0x0x55fa4ba694e0)
+[0;36m[SCRIPT][0;37m (instance : 0x0x55fa4ba0e020)
+[0;36m[SCRIPT][0;37m (instance : 0x0x55fa4ba73ee0)
+[0;36m[SCRIPT][0;37m ok
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m wrong virable type, required [ integer ] string given
+[0;36m[SCRIPT][0;37m wrong virable type, required [ string ] integer given
+[0;36m[SCRIPT][0;37m float
+[0;36m[SCRIPT][0;37m (instance : 0x0x55b9ff6824e0)
+[0;36m[SCRIPT][0;37m (instance : 0x0x55b9ff627020)
+[0;36m[SCRIPT][0;37m (instance : 0x0x55b9ff68cee0)
+[0;36m[SCRIPT][0;37m ok
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m wrong virable type, required [ integer ] string given
+[0;36m[SCRIPT][0;37m wrong virable type, required [ string ] integer given
+[0;36m[SCRIPT][0;37m float
+[0;36m[SCRIPT][0;37m (instance : 0x0x55f6744af390)
+[0;36m[SCRIPT][0;37m (instance : 0x0x55f674448020)
+[0;36m[SCRIPT][0;37m (instance : 0x0x55f6744ade60)
+[0;36m[SCRIPT][0;37m ok
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m wrong virable type, required [ integer ] string given
+[0;36m[SCRIPT][0;37m wrong virable type, required [ string ] integer given
+[0;36m[SCRIPT][0;37m (instance : 0x0x55a3b7159c50)
+[0;36m[SCRIPT][0;37m (instance : 0x0x55a3b70f3020)
+[0;36m[SCRIPT][0;37m (instance : 0x0x55a3b7158a90)
+[0;36m[SCRIPT][0;37m ok
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m wrong virable type, required [ integer ] string given
+[0;36m[SCRIPT][0;37m the index 'tes3' does not exist
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m wrong virable type, required [ integer ] string given
+[0;36m[SCRIPT][0;37m (instance : 0x0x55a5f4447970)
+[0;36m[SCRIPT][0;37m (instance : 0x0x55a5f43e2020)
+[0;36m[SCRIPT][0;37m (instance : 0x0x55a5f4447970)
+[0;36m[SCRIPT][0;37m ok
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m wrong virable type, required [ integer ] string given
+[0;36m[SCRIPT][0;37m (instance : 0x0x55f40b192970)
+[0;36m[SCRIPT][0;37m (instance : 0x0x55f40b12d020)
+[0;36m[SCRIPT][0;37m (instance : 0x0x55f40b192970)
+[0;36m[SCRIPT][0;37m ok
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m wrong virable type, required [ integer ] string given
+[0;36m[SCRIPT][0;37m (instance : 0x0x55da6fcc4970)
+[0;36m[SCRIPT][0;37m (instance : 0x0x55da6fc5f020)
+[0;36m[SCRIPT][0;37m (instance : 0x0x55da6fcc4970)
+[0;36m[SCRIPT][0;37m ok
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m wrong virable type, required [ integer ] string given
+[0;36m[SCRIPT][0;37m (instance : 0x0x56255db80cf0)
+[0;36m[SCRIPT][0;37m (instance : 0x0x56255db80bf0)
+[0;36m[SCRIPT][0;37m (instance : 0x0x56255db80cf0)
+[0;36m[SCRIPT][0;37m ok
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m wrong virable type, required [ integer ] string given
+[0;36m[SCRIPT][0;37m (instance : 0x0x56443e5c0510)
+[0;36m[SCRIPT][0;37m (instance : 0x0x56443e5c0410)
+[0;36m[SCRIPT][0;37m (instance : 0x0x56443e5c0510)
+[0;36m[SCRIPT][0;37m ok
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m wrong virable type, required [ integer ] string given
+[0;36m[SCRIPT][0;37m (instance : 0x0x56166a601120)
+[0;36m[SCRIPT][0;37m (instance : 0x0x56166a601020)
+[0;36m[SCRIPT][0;37m (instance : 0x0x56166a601120)
+[0;36m[SCRIPT][0;37m ok
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+
+AN ERROR HAS OCCURED [expected 'IDENTIFIER']
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/DependecyInjection.nut line [2]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [4]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [expected 'IDENTIFIER']
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/init.nut line [4]
+
+LOCALS
+announcer: Failed to store response from master.vc-mp.org
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m expected 'IDENTIFIER'
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+
+AN ERROR HAS OCCURED [expected 'IDENTIFIER']
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/DependecyInjection.nut line [2]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [4]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [expected 'IDENTIFIER']
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/init.nut line [4]
+
+LOCALS
+announcer: Failed to store response from master.vc-mp.org
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m expected 'IDENTIFIER'
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+
+AN ERROR HAS OCCURED [expected 'IDENTIFIER']
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/DependecyInjection.nut line [2]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [4]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [expected 'IDENTIFIER']
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/init.nut line [4]
+
+LOCALS
+announcer: Failed to store response from master.vc-mp.org
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m expected 'IDENTIFIER'
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m (instance : 0x0x55aa2efeac30)
+[0;36m[SCRIPT][0;37m (instance : 0x0x55aa2efeabb0)
+[0;36m[SCRIPT][0;37m (instance : 0x0x55aa2efeac30)
+[0;36m[SCRIPT][0;37m ok
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m (instance : 0x0x5587440a0c40)
+[0;36m[SCRIPT][0;37m (instance : 0x0x5587440a0bc0)
+[0;36m[SCRIPT][0;37m (instance : 0x0x5587440a0c40)
+[0;36m[SCRIPT][0;37m ok
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m (instance : 0x0x5558416d4c40)
+[0;36m[SCRIPT][0;37m (instance : 0x0x5558416d4bc0)
+[0;36m[SCRIPT][0;37m (instance : 0x0x5558416d4c40)
+[0;36m[SCRIPT][0;37m ok
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m (instance : 0x0x55a36ac58a30)
+[0;36m[SCRIPT][0;37m (instance : 0x0x55a36ac589b0)
+[0;36m[SCRIPT][0;37m (instance : 0x0x55a36ac58a30)
+[0;36m[SCRIPT][0;37m ok
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m wrong virable type, required [ integer ] string given
+[0;36m[SCRIPT][0;37m (instance : 0x0x55c490701910)
+[0;36m[SCRIPT][0;37m (instance : 0x0x55c49069c020)
+[0;36m[SCRIPT][0;37m (instance : 0x0x55c490701910)
+[0;36m[SCRIPT][0;37m ok
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m wrong virable type, required [ integer ] string given
+[0;36m[SCRIPT][0;37m true
+[0;36m[SCRIPT][0;37m (instance : 0x0x55a28167b900)
+[0;36m[SCRIPT][0;37m (instance : 0x0x55a281616020)
+[0;36m[SCRIPT][0;37m (instance : 0x0x55a28167b900)
+[0;36m[SCRIPT][0;37m ok
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m wrong virable type, required [ integer ] string given
+[0;36m[SCRIPT][0;37m true
+[0;36m[SCRIPT][0;37m true
+[0;36m[SCRIPT][0;37m (instance : 0x0x5618c09f4900)
+[0;36m[SCRIPT][0;37m (instance : 0x0x5618c098f020)
+[0;36m[SCRIPT][0;37m (instance : 0x0x5618c09f4900)
+[0;36m[SCRIPT][0;37m ok
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m wrong virable type, required [ integer ] string given
+[0;36m[SCRIPT][0;37m true
+[0;36m[SCRIPT][0;37m true
+[0;36m[SCRIPT][0;37m (instance : 0x0x5631c6d2c900)
+[0;36m[SCRIPT][0;37m (instance : 0x0x5631c6cc7020)
+[0;36m[SCRIPT][0;37m (instance : 0x0x5631c6d2c900)
+[0;36m[SCRIPT][0;37m ok
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m wrong virable type, required [ integer ] string given
+[0;36m[SCRIPT][0;37m true
+[0;36m[SCRIPT][0;37m (instance : 0x0x558ea79c3900)
+[0;36m[SCRIPT][0;37m (instance : 0x0x558ea795e020)
+[0;36m[SCRIPT][0;37m (instance : 0x0x558ea79c3900)
+[0;36m[SCRIPT][0;37m ok
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m wrong virable type, required [ integer ] string given
+[0;36m[SCRIPT][0;37m the index 'float' does not exist
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m wrong virable type, required [ integer ] string given
+[0;36m[SCRIPT][0;37m wrong virable type, required [ float ] float given
+[0;36m[SCRIPT][0;37m (null : 0x(nil))
+[0;36m[SCRIPT][0;37m true
+[0;36m[SCRIPT][0;37m (null : 0x(nil))
+[0;36m[SCRIPT][0;37m ok
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m ok
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m cannot open the file
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m parameter 2 has an invalid type 'string' ; expected: 'bool'
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m parameter 2 has an invalid type 'string' ; expected: 'bool'
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (instance : 0x0x561a13d64730) ] type: [ file ]
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m _nexti failed
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m _nexti failed
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m _nexti failed
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m parameter 0 has an invalid type 'class' ; expected: 'instance'
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m _nexti failed
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m _nexti failed
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m _nexti failed
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m _nexti failed
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m (instance : 0x0x557aaa8a55a0)
+[0;36m[SCRIPT][0;37m _nexti failed
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m (null : 0x(nil))
+[0;36m[SCRIPT][0;37m _nexti failed
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m the index 'sqstd_getfile' does not exist
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m parameter 0 has an invalid type 'class' ; expected: 'instance'
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m 0
+[0;36m[SCRIPT][0;37m (null : 0x(nil))
+[0;36m[SCRIPT][0;37m _nexti failed
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m 0
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m 0
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m 0
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m invalid format
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m 1634760004
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m (instance : 0x0x55fbc2a1e660)
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m 224
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m 0
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m 0
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m 32512
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [main()] /home/vcmp/modules/namespace/init.nut line [1]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Autoload/autoload.nut line [7]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Autoload/autoload.nut line [7]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m wrong number of announcer: Failed to store response from master.vc-mp.org
+parameters
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [main()] /home/vcmp/modules/namespace/init.nut line [1]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Autoload/autoload.nut line [7]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Autoload/autoload.nut line [7]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m wrong number of announcer: Failed to store response from master.vc-mp.org
+parameters
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [main()] /home/vcmp/modules/namespace/init.nut line [1]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Autoload/autoload.nut line [7]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Autoload/autoload.nut line [7]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m wrong number of announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+parameters
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [main()] /home/vcmp/modules/namespace/init.nut line [1]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Autoload/autoload.nut line [7]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Autoload/autoload.nut line [7]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m wrong number of announcer: Failed to store response from master.vc-mp.org
+parameters
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [main()] /home/vcmp/modules/namespace/init.nut line [1]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Autoload/autoload.nut line [7]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Autoload/autoload.nut line [7]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m wrong number of announcer: Failed to store response from master.vc-mp.org
+parameters
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [the index 'Namespace' does not exist]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/init.nut line [5]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m the index 'Namespace' does not exist
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [main()] /home/vcmp/modules/namespace/init.nut line [1]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Autoload/autoload.nut line [7]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Autoload/autoload.nut line [7]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m wrong number of announcer: Failed to store response from master.vc-mp.org
+parameters
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [expected '=']
+
+CALLSTACK
+*FUNCTION [main()] extensions/Autoload/autoload.nut line [7]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [expected '=']
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load sannouncer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+cript 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m expected '='
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ /modules/namespace/ ] type: [ string ] lenght: [ 19 ] 
+
+[0;36m[SCRIPT][0;37m wrong number of parameters
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ /modules/namespace/ ] type: [ string ] lenght: [ 19 ] 
+
+[0;36m[SCRIPT][0;37m wrong number of parameters
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m wrong number of parameters
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ /modules/namespace//namespaces.ini ] type: [ string ] lenght: [ 34 ] 
+
+[0;36m[SCRIPT][0;37m wrong number of parameters
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ /modules/namespace//namespaces.ini ] type: [ string ] lenght: [ 34 ] 
+
+[0;36m[SCRIPT][0;37m parameter 0 has an invalid type 'instance' ; expected: 'table'
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ /home/vcmp/modules/namespace//namespaces.ini ] type: [ string ] lenght: [ 44 ] 
+
+[0;36m[SCRIPT][0;37m parameter 0 has an invalid type 'instance' ; expected: 'table'
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ /home/vcmp/modules/namespace//namespaces.ini ] type: [ string ] lenght: [ 44 ] 
+
+[0;36m[SCRIPT][0;37m parameter 0 has an invalid type 'instance' ; expected: 'table'
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m parameter 0 has an invalid type 'instance' ; expected: 'table'
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m the index 'lines' does not exist
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m parameter 3 has an invalid type 'integer' ; expected: 'string'
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m parameter 0 has an invalid type 'instance' ; expected: 'table'
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m parameter 0 has an invalid type 'instance' ; expected: 'table'
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [expression expected, found ')']
+
+CALLSTACK
+*FUNCTION [main()] /home/vcmp/modules/namespace/init.nut line [4]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Autoload/autoload.nut line [7]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [expression expected, found ')']
+
+CALLSTACK
+*FUNCTION [main()] extensions/Autoload/autoload.nut line [7]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [expression expected, found ')']
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m exprannouncer: Failed to store response from master.vc-mp.org
+ession expected, found ')'
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m parameter 0 has an invalid type 'instance' ; expected: 'table'
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m parameter 0 has an invalid type 'instance' ; expected: 'table'
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m wrong number of parameters
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m parameter 0 has an invalid type 'instance' ; expected: 'table'
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m parameter 0 has an invalid type 'instance' ; expected: 'table'
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m parameter 0 has an invalid type 'instance' ; expected: 'table'
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m parameter 0 has an invalid type 'instance' ; expected: 'table'
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m parameter 0 has an invalid type 'instance' ; expected: 'table'
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m parameter 0 has an invalid type 'instance' ; expected: 'table'
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m parameter 0 has an invalid type 'instance' ; expected: 'table'
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m parameter 0 has an invalid type 'instance' ; expected: 'table'
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m /home/vcmp/modules/namespace/namespaces.xml
+[0;36m[SCRIPT][0;37m parameter 0 has an invalid type 'instance' ; expected: 'table'
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m /home/vcmp/modules/namespace/namespaces.xml
+[0;36m[SCRIPT][0;37m parameter 0 has an invalid type 'instance' ; expected: 'table'
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m /home/vcmp/modules/namespace/namespaces.xml
+[0;36m[SCRIPT][0;37m wrong number of parameters
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m /home/vcmp/modules/namespace/namespaces.xml
+[0;36m[SCRIPT][0;37m parameter 0 has an invalid type 'instance' ; expected: 'table'
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [expected 'IDENTIFIER']
+
+CALLSTACK
+*FUNCTION [main()] /home/vcmp/modules/namespace/init.nut line [4]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Autoload/autoload.nut line [7]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [expected 'IDENTIFIER']
+
+CALLSTACK
+*FUNCTION [main()] extensions/Autoload/autoload.nut line [7]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [expected 'IDENTIFIER']
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m expected 'IDENTIFIER'
+[0;30m[Eannouncer: Failed to store response from master.vc-mp.org
+RROR][0;37m No Squirrel gamemode was specified.
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+
+AN ERROR HAS OCCURED [the index 'stystem' does not exist]
+
+CALLSTACK
+*FUNCTION [CreateFile()] modules/namespace/Controller/NamespaceController.nut line [11]
+*FUNCTION [constructor()] modules/namespace/Controller/NamespaceController.nut line [6]
+*FUNCTION [main()] extensions/Kernel/init.nut line [5]
+
+LOCALS
+[this] INSTANCE
+[var] "Dupa/test/544as"
+[this] INSTANCE
+[vargv] ARRAY
+[this] TABLE
+[0;30m[Wannouncer: Failed to store response from master.vc-mp.org
+ARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m the index 'stystem' does not exist
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m created files
+[0;36m[SCRIPT][0;37m the index 'Read' does not exist
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+
+AN ERROR HAS OCCURED [parameter 4 has an invalid type 'string' ; expected: 'integer']
+
+CALLSTACK
+*FUNCTION [CreateFile()] modules/namespace/Controller/NamespaceController.nut line [13]
+*FUNCTION [constructor()] modules/namespace/Controller/NamespaceController.nut line [6]
+*FUNCTION [main()] extensions/Kernel/init.nut line [5]
+
+LOCALS
+[this] INSTANCE
+[var] "Dupa/test/544as"
+[this] INSTANCE
+[vargv] announcer: Failed to store response from master.vc-mp.org
+ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m parameter 4 has an invalid type 'string' ; expected: 'integer'
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m created files
+[0;36m[SCRIPT][0;37m the index 'Read' does not exist
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m created files
+[0;36m[SCRIPT][0;37m the index 'Read' does not exist
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m created files
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m created files
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m created files
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m created files
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+
+AN ERROR HAS OCCURED [expression expected]
+
+CALLSTACK
+*FUNCTION [main()] /home/vcmp/modules/namespace/init.nut line [5]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Autoload/autoload.nut line [7]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [expression expected]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Autoload/autoload.nut line [7]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [expression expected]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;announcer: Failed to store response from master.vc-mp.org
+37m expression expected
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m created files
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m created files
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m created files
+
+AN ERROR HAS OCCURED [the index 'counter' does not exist]
+
+CALLSTACK
+*FUNCTION [getNamespace()] modules/namespace/Controller/UseController.nut line [8]
+*FUNCTION [constructor()] modules/namespace/Controller/UseController.nut line [4]
+*FUNCTION [main()] extensions/Kernel/init.nut line [6]
+
+LOCALS
+[this] INSTANCE
+[var] "Dupa/test/544as"
+[this] INSTANCE
+[vargv] ARannouncer: Failed to store response from master.vc-mp.org
+RAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m the index 'counter' does not exist
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m created files
+
+AN ERROR HAS OCCURED [the index 'counter' does not exist]
+
+CALLSTACK
+*FUNCTION [getNamespace()] modules/namespace/Controller/UseController.nut line [8]
+*FUNCTION [constructor()] modules/namespace/Controller/UseController.nut line [4]
+*FUNCTION [main()] extensions/Kernel/init.nut line [6]
+
+LOCALS
+[this] INSTANCE
+[var] "Dupa/test/544as"
+[this] INSTANCE
+[vargv] ARannouncer: Failed to store response from master.vc-mp.org
+RAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m the index 'counter' does not exist
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m created files
+
+AN ERROR HAS OCCURED [the index 'counter' does not exist]
+
+CALLSTACK
+*FUNCTION [getNamespace()] modules/namespace/Controller/UseController.nut line [8]
+*FUNCTION [constructor()] modules/namespace/Controller/UseController.nut line [4]
+*FUNCTION [main()] extensions/Kernel/init.nut line [6]
+
+LOCALS
+[this] INSTANCE
+[var] "Dupa/test/544as"
+[this] INSTANCE
+[vargv] ARannouncer: Failed to store response from master.vc-mp.org
+RAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m the index 'counter' does not exist
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m created files
+
+AN ERROR HAS OCCURED [parameter 3 has an invalid type 'integer' ; expected: 'string']
+
+CALLSTACK
+*FUNCTION [getNamespace()] modules/namespace/Controller/UseController.nut line [10]
+*FUNCTION [constructor()] modules/namespace/Controller/UseController.nut line [4]
+*FUNCTION [main()] extensions/Kernel/init.nut line [6]
+
+LOCALS
+[i] 0
+[actual] 1
+[this] INSTANCE
+[varannouncer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+] "Dupa/test/544as"
+[this] INSTANCE
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m parameter 3 has an invalid type 'integer' ; expected: 'string'
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m created files
+[0;36m[SCRIPT][0;37m success
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m created files
+[0;36m[SCRIPT][0;37m huj
+[0;36m[SCRIPT][0;37m success
+[0;36m[SCRIPT][0;37m huj
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m created files
+[0;36m[SCRIPT][0;37m huj
+[0;36m[SCRIPT][0;37m success
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m created files
+[0;36m[SCRIPT][0;37m success
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m created files
+[0;36m[SCRIPT][0;37m success
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m created files
+[0;36m[SCRIPT][0;37m huj
+[0;36m[SCRIPT][0;37m success
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m created files
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m created files
+[0;36m[SCRIPT][0;37m created files
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [expected ')' or ',']
+
+CALLSTACK
+*FUNCTION [main()] /home/vcmp/modules/namespace/init.nut line [4]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Autoload/autoload.nut line [7]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [expected ')' or ',']
+
+CALLSTACK
+*FUNCTION [main()] extensions/Autoload/autoload.nut line [7]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [expected ')' or ',']
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m expected ')' or ','
+[0;30m[ERROR][0announcer: Failed to store response from master.vc-mp.org
+;37m No Squirrel gamemode was specified.
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [expected ')' or ',']
+
+CALLSTACK
+*FUNCTION [main()] /home/vcmp/modules/namespace/init.nut line [4]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Autoload/autoload.nut line [7]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [expected ')' or ',']
+
+CALLSTACK
+*FUNCTION [main()] extensions/Autoload/autoload.nut line [7]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [expected ')' or ',']
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m expected ')' or ','
+[0;30m[ERROR][0announcer: Failed to store response from master.vc-mp.org
+;37m No Squirrel gamemode was specified.
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [expression expected]
+
+CALLSTACK
+*FUNCTION [main()] /home/vcmp/modules/namespace/init.nut line [4]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Autoload/autoload.nut line [7]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [expression expected]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Autoload/autoload.nut line [7]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [expression expected]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m expression expected
+[0;30m[ERROR][0announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+;37m No Squirrel gamemode was specified.
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m the index 'namespace' does not exist
+[0;36m[SCRIPT][0;37m the index 'namespace' does not exist
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (nuannouncer: Failed to store response from master.vc-mp.org
+ll : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+announcer: Failed to store response from master.vc-mp.org
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ debil/asd ] type: [ string ] lenght: [ 9 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ Dupa/test/544as ] type: [ string ] lenght: [ 15 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ debil/asd ] type: [ string ] lenght: [ 9 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ Dupa/test/544as ] type: [ string ] lenght: [ 15 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ debil/asd ] type: [ string ] lenght: [ 9 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ Dupa/test/544as ] type: [ string ] lenght: [ 15 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ debil/asd ] type: [ string ] lenght: [ 9 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ Dupa/test/544as ] type: [ string ] lenght: [ 15 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ debil/asd ] type: [ string ] lenght: [ 9 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ Dupa/test/544as ] type: [ string ] lenght: [ 15 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ debil/asd ] type: [ string ] lenght: [ 9 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ Dupa/test/544as ] type: [ string ] lenght: [ 15 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ debil/asd ] type: [ string ] lenght: [ 9 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ Dupa/test/544as ] type: [ string ] lenght: [ 15 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ debil/asd ] type: [ string ] lenght: [ 9 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ debil/asd ] type: [ string ] lenght: [ 9 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ Dupa/test/544as ] type: [ string ] lenght: [ 15 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ debil/asd ] type: [ string ] lenght: [ 9 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ Dupa/test/544as ] type: [ string ] lenght: [ 15 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ debil/asd ] type: [ string ] lenght: [ 9 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ Dupa/test/544as ] type: [ string ] lenght: [ 15 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ debil/asd ] type: [ string ] lenght: [ 9 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ Dupa/test/544as ] type: [ string ] lenght: [ 15 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ debil/asd ] type: [ string ] lenght: [ 9 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ Dupa/test/544as ] type: [ string ] lenght: [ 15 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ debil/asd ] type: [ string ] lenght: [ 9 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ Dupa/test/544as ] type: [ string ] lenght: [ 15 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [announcer: Failed to store response from master.vc-mp.org
+ debil/asd ] type: [ string ] lenght: [ 9 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ Dupa/test/544as ] type: [ string ] lenght: [ 15 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ debil/asd ] type: [ string ] lenght: [ 9 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ Dupa/test/544as ] type: [ string ] lenght: [ 15 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ debil/asd ] type: [ string ] lenght: [ 9 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ Dupa/test/544as ] type: [ string ] lenght: [ 15 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ debil/asd ] type: [ string ] lenght: [ 9 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ Dupa/test/544as ] type: [ string ] lenght: [ 15 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ debil/asd ] type: [ string ] lenght: [ 9 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ Dupa/test/544as ] type: [ string ] lenght: [ 15 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ debil/asd ] type: [ string ] lenght: [ 9 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ Dupa/test/544as ] type: [ string ] lenght: [ 15 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ debil/asd ] type: [ string ] lenght: [ 9 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ Dupa/test/544as ] type: [ string ] lenght: [ 15 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ debil/asd ] type: [ string ] lenght: [ 9 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ Dupa/test/544as ] type: [ string ] lenght: [ 15 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ debil/asd ] type: [ string ] lenght: [ 9 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ Dupa/test/544as ] type: [ string ] lenght: [ 15 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ debil/asd ] type: [ string ] lenght: [ 9 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ Dupa/test/544as ] type: [ string ] lenght: [ 15 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ debil/asd ] type: [ string ] lenght: [ 9 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ debil/asd ] type: [ string ] lenght: [ 9 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ Dupa/test/544as ] type: [ string ] lenght: [ 15 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ debil/asd ] type: [ string ] lenght: [ 9 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ Dupa/test/544as ] type: [ string ] lenght: [ 15 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ debil/asd ] type: [ string ] lenght: [ 9 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ Dupa/test/544as ] type: [ string ] lenght: [ 15 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ debil/asd ] type: [ string ] lenght: [ 9 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ Dupa/test/544as ] type: [ string ] lenght: [ 15 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ debil/asd ] type: [ string ] lenght: [ 9 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ Dupa/test/544as ] type: [ string ] lenght: [ 15 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ debil/asd ] type: [ string ] lenght: [ 9 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ Dupa/test/544as ] type: [ string ] lenght: [ 15 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ debil/asd ] type: [ string ] lenght: [ 9 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ Dupa/test/544as ] type: [ string ] lenght: [ 15 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ debil/asd ] type: [ string ] lenght: [ 9 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ Dupa/test/544as ] type: [ string ] lenght:announcer: Failed to store response from master.vc-mp.org
+ [ 15 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ debil/asd ] type: [ string ] lenght: [ 9 ] 
+
+[0;36m[SCRIPT][0;37m DEBUG:
+virable given [ (null : 0x(nil)) ] type: [ null ]
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m arith op + on between 'null' and 'integer'
+[0;36m[SCRIPT][0;37m arith op + on between 'null' and 'integer'
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m arith op + on between 'null' and 'integer'
+[0;36m[SCRIPT][0;37m created namespaces file
+[0;36m[SCRIPT][0;37m created counter file
+[0;36m[SCRIPT][0;37m created counter file
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m created counter file
+[0;36m[SCRIPT][0;37m created counter file
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m the index 'counter' does not exist
+
+AN ERROR HAS OCCURED [the index 'counter' does not exist]
+
+CALLSTACK
+*FUNCTION [CreateFile()] modules/namespace/Controller/NamespaceController.nut line [23]
+*FUNCTION [constructor()] modules/namespace/Controller/NamespaceController.nut line [8]
+*FUNCTION [main()] extensions/Kernel/init.nut line [4]
+
+LOCALS
+[namespace] "0"
+[counter] 0
+[this]announcer: Failed to store response from master.vc-mp.org
+ INSTANCE
+[var] "Dupa/test/544as"
+[this] INSTANCE
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m the index 'counter' does not exist
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+
+AN ERROR HAS OCCURED [the index 'counter' does not exist]
+
+CALLSTACK
+*FUNCTION [CreateFile()] modules/namespace/Controller/NamespaceController.nut line [23]
+*FUNCTION [constructor()] modules/namespace/Controller/NamespaceController.nut line [8]
+*FUNCTION [main()] extensions/Kernel/init.nut line [4]
+
+LOCALS
+[namespace] "1"
+[counter] 0
+[this] INSTANCE
+[var] "Dupa/test/544as"
+[this] INSTANCE
+[vargv] announcer: Failed to store response from master.vc-mp.org
+ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m the index 'counter' does not exist
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m created counter file
+[0;36m[SCRIPT][0;37m created counter file
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m created namespaces file
+[0;36m[SCRIPT][0;37m created namespaces file
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m created namespaces file
+[0;36m[SCRIPT][0;37m created namespaces file
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m created namespaces file
+[0;36m[SCRIPT][0;37m created namespaces file
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m created namespaces file
+[0;36m[SCRIPT][0;37m created namespaces file
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m created namespaces file
+[0;36m[SCRIPT][0;37m created counter file
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m success
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m cannot open the file
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m load /home/vcmp/debil/asd.nut
+[0;36m[SCRIPT][0;37m cannot open the file
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m Trying to load: /home/vcmp/debil/asd.nut file
+[0;36m[SCRIPT][0;37m cannot open the file
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m Trying to load: /home/vcmp/debil/asd.nut file
+[0;36m[SCRIPT][0;37m cannot open the file
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m created namespaces file
+[0;36m[SCRIPT][0;37m created counter file
+[0;36m[SCRIPT][0;37m Trying to load: /home/vcmp/debil/asd.nut file
+[0;36m[SCRIPT][0;37m cannot open the file
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m Trying to load: /home/vcmp/debil/asd.nut file
+[0;36m[SCRIPT][0;37m cannot open the file
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+
+AN ERROR HAS OCCURED [the index 'use' does not exist]
+
+CALLSTACK
+*FUNCTION [main()] /home/vcmp/modules/zDupa/testModule.nut line [1]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Autoload/autoload.nut line [8]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'use' does not exist]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Autoload/autoload.nut line [8]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'use' does not exist]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Keannouncer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+rnel/init.nut'
+[0;30m[WARNING][0;37m the index 'use' does not exist
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m the index 'empty' does not exist
+[0;36m[SCRIPT][0;37m the index 'empty' does not exist
+[0;36m[SCRIPT][0;37m Trying to load: /home/vcmp/debil/asd.nut file
+[0;36m[SCRIPT][0;37m cannot open the file
+
+AN ERROR HAS OCCURED [the index 'xD' does not exist]
+
+CALLSTACK
+*FUNCTION [onScriptLoad()] /home/vcmp/modules/zDupa/testModule.nut line [3]
+
+LOCALS
+[this] TABLE
+[0;30m[WARNINannouncer: Failed to store response from master.vc-mp.org
+G][0;37m onScriptLoad failed to execute -- check the console for more details.
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m the index 'empty' does not exist
+[0;36m[SCRIPT][0;37m the index 'empty' does not exist
+[0;36m[SCRIPT][0;37m Trying to load: /home/vcmp/debil/asd.nut file
+[0;36m[SCRIPT][0;37m cannot open the file
+
+AN ERROR HAS OCCURED [the index 'dupa' does not exist]
+
+CALLSTACK
+*FUNCTION [onScriptLoad()] /home/vcmp/modules/zDupa/testModule.nut line [3]
+
+LOCALS
+[this] TABLE
+[0;30m[WARNannouncer: Failed to store response from master.vc-mp.org
+ING][0;37m onScriptLoad failed to execute -- check the console for more details.
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m the index 'empty' does not exist
+[0;36m[SCRIPT][0;37m the index 'empty' does not exist
+
+AN ERROR HAS OCCURED [the index 'dupa' does not exist]
+
+CALLSTACK
+*FUNCTION [onScriptLoad()] /home/vcmp/modules/zDupa/testModule.nut line [3]
+
+LOCALS
+[this] TABLE
+[0;30m[WARNING][0;37m onScriptLoad failed to execute -- check the console for more details.
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m the index 'empty' does not exist
+[0;36m[SCRIPT][0;37m the index 'empty' does not exist
+
+AN ERROR HAS OCCURED [the index 'dupa' does not exist]
+
+CALLSTACK
+*FUNCTION [onScriptLoad()] /home/vcmp/modules/zDupa/testModule.nut line [3]
+
+LOCALS
+[this] TABLE
+[0;30m[WARNING][0;37m onScriptLoad failed to execute -- check the console for more details.
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m the index 'empty' does not exist
+
+AN ERROR HAS OCCURED [the index 'dupa' does not exist]
+
+CALLSTACK
+*FUNCTION [onScriptLoad()] /home/vcmp/modules/zDupa/testModule.nut line [3]
+
+LOCALS
+[this] TABLE
+[0;30m[WARNING][0;37m onScriptLoad failed to execute -- check the console for more details.
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m the index 'empty' does not exist
+
+AN ERROR HAS OCCURED [the index 'dupa' does not exist]
+
+CALLSTACK
+*FUNCTION [onScriptLoad()] /home/vcmp/modules/zDupa/testModule.nut line [3]
+
+LOCALS
+[this] TABLE
+[0;30m[WARNING][0;37m onScriptLoad failed to execute -- check the console for more details.
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m the index 'empty' does not exist
+
+AN ERROR HAS OCCURED [the index 'dupa' does not exist]
+
+CALLSTACK
+*FUNCTION [onScriptLoad()] /home/vcmp/modules/zDupa/testModule.nut line [3]
+
+LOCALS
+[this] TABLE
+[0;30m[WARNING][0;37m onScriptLoad failed to execute -- check the console for more details.
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m the index 'empty' does not exist
+
+AN ERROR HAS OCCURED [the index 'dupa' does not exist]
+
+CALLSTACK
+*FUNCTION [onScriptLoad()] /home/vcmp/modules/zDupa/testModule.nut line [3]
+
+LOCALS
+[this] TABLE
+[0;30m[WARNING][0;37m onScriptLoad failed to execute -- check the console for more details.
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m the index 'empty' does not exist
+
+AN ERROR HAS OCCURED [the index 'dupa' does not exist]
+
+CALLSTACK
+*FUNCTION [onScriptLoad()] /home/vcmp/modules/zDupa/testModule.nut line [3]
+
+LOCALS
+[this] TABLE
+[0;30m[WARNING][0;37m onScriptLoad failed to execute -- check the console for more details.
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+
+AN ERROR HAS OCCURED [the index 'empty' does not exist]
+
+CALLSTACK
+*FUNCTION [NamespaceValidateEmpty()] modules/namespace/Controller/NamespaceController.nut line [85]
+*FUNCTION [constructor()] modules/namespace/Controller/NamespaceController.nut line [7]
+*FUNCTION [main()] /home/vcmp/modules/zDupa/init.nut line [1]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Autoload/autoload.nut line [8]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[this] INSTANCE
+[var] "modules/zDupa/Controller/dupaController"
+[this] INSTANCE
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'empty' does not exist]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Autoload/autoload.nut line [8]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[varannouncer: Failed to store response from master.vc-mp.org
+gv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'empty' does not exist]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/init.nut line [2]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m the index 'empty' does not exist
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+
+AN ERROR HAS OCCURED [the index 'dupa' does not exist]
+
+CALLSTACK
+*FUNCTION [onScriptLoad()] /home/vcmp/modules/zDupa/init.nut line [3]
+
+LOCALS
+[this] TABLE
+[0;30m[WARNING][0;37m onScriptLoad failed to execute -- check the console for more details.
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [the index 'use' does not exist]
+
+CALLSTACK
+*FUNCTION [main()] /home/vcmp/scripts/test.nut line [1]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Autoload/autoload.nut line [4]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [3]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'use' does not exist]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Autoload/autoload.nut line [4]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [3]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'use' does not exist]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/init.nut line [3]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m the index 'useannouncer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+' does not exist
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [cannot open the file]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/VCMP/namespace/init.nut line [3]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [3]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [cannot open the file]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/init.nut line [3]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNINGannouncer: Failed to store response from master.vc-mp.org
+][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m cannot open the file
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [cannot open the file]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/VCMP/namespace/init.nut line [3]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [3]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [cannot open the file]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/init.nut line [3]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNINGannouncer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m cannot open the file
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [cannot open the file]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/VCMP/namespace/init.nut line [3]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [3]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [cannot open the file]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/init.nut line [3]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNINGannouncer: Failed to store response from master.vc-mp.org
+][0;37m Could not load script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m cannot open the file
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m Trying to load: /home/vcmp/modules/zDupa/Controller/dupaController.nut file
+[0;36m[SCRIPT][0;37m Trying to load: /home/vcmp/modules/zDupa/Controller/dupaController.nut file
+[0;36m[SCRIPT][0;37m xD
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+
+AN ERROR HAS OCCURED [the index 'mainController' does not exist]
+
+CALLSTACK
+*FUNCTION [main()] /home/vcmp/scripts/test.nut line [1]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Autoload/autoload.nut line [4]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [4]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'mainController' does not exist]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Autoload/autoload.nut line [4]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [4]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'mainController' does not exist]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/init.nut line [4]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load announcer: Failed to store response from master.vc-mp.org
+script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m the index 'mainController' does not exist
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+[0;36m[SCRIPT][0;37m xD
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+
+AN ERROR HAS OCCURED [the index 'dupa' does not exist]
+
+CALLSTACK
+*FUNCTION [onScriptLoad()] /home/vcmp/scripts/test.nut line [3]
+
+LOCALS
+[this] TABLE
+[0;30m[WARNING][0;37m onScriptLoad failed to execute -- check the console for more details.
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+
+AN ERROR HAS OCCURED [the index 'dupa' does not exist]
+
+CALLSTACK
+*FUNCTION [onScriptLoad()] /home/vcmp/scripts/test.nut line [3]
+
+LOCALS
+[this] TABLE
+[0;30m[WARNING][0;37m onScriptLoad failed to execute -- check the console for more details.
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+
+AN ERROR HAS OCCURED [the index 'dupa' does not exist]
+
+CALLSTACK
+*FUNCTION [onScriptLoad()] /home/vcmp/scripts/test.nut line [3]
+
+LOCALS
+[this] TABLE
+[0;30m[WARNING][0;37m onScriptLoad failed to execute -- check the console for more details.
+announcer: Failed to store response from master.vc-mp.org
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+
+AN ERROR HAS OCCURED [the index 'dupa' does not exist]
+
+CALLSTACK
+*FUNCTION [onScriptLoad()] /home/vcmp/scripts/test.nut line [3]
+
+LOCALS
+[this] TABLE
+[0;30m[WARNING][0;37m onScriptLoad failed to execute -- check the console for more details.
+[0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[0;36m[SCRIPT][0;37m loaded Namespaces
+
+AN ERROR HAS OCCURED [the index 'mainController' does not exist]
+
+CALLSTACK
+*FUNCTION [main()] /home/vcmp/scripts/test.nut line [1]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Autoload/autoload.nut line [7]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [4]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'mainController' does not exist]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Autoload/autoload.nut line [7]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] extensions/Kernel/init.nut line [4]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'mainController' does not exist]
+
+CALLSTACK
+*FUNCTION [main()] extensions/Kernel/init.nut line [4]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[0;30m[WARNING][0;37m Could not load announcer: Failed to store response from master.vc-mp.org
+script 'extensions/Kernel/init.nut'
+[0;30m[WARNING][0;37m the index 'mainController' does not exist
+[0;30m[ERROR][0;37m No Squirrel gamemode was specified.

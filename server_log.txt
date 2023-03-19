@@ -622,3 +622,9 @@ announcer: Failed to store response from master.vc-mp.org
 [0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
 announcer: Failed to store response from master.vc-mp.org
 [0;32m[MODULE][0;37m Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+Player 'malina' ID 0 connected.
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+Player 'malina' ID 0 disconnected (timeout).
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)

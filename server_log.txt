@@ -718,3 +718,555 @@ LOCALS
 [this] CLASS
 [this] TABLE
 [WARNING] onScriptLoad failed to execute -- check the console for more details.
+announcer: Failed to store response from master.vc-mp.org
+Player 'malina' ID 0 connected.
+announcer: Failed to store response from master.vc-mp.org
+Player 'malina' ID 0 disconnected (timeout).
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [the index 'AuthValidator' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerCommand()] scripts/init.nut line [71]
+
+LOCALS
+[text] ARRAY
+[text] "dupa"
+[cmd] "register"
+[player] INSTANCE
+[this] TABLE
+announcer: Failed to store response from master.vc-mp.org
+Player 'malina' ID 0 connected.
+Player 'malina' ID 0 disconnected (timeout).
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [the index '1' does not exist]
+
+CALLSTACK
+*FUNCTION [PasswordValidator()] scripts/PSScripts/Validator/AuthValidator.nut line [20]
+*FUNCTION [Validate()] scripts/PSScripts/Validator/AuthValidator.nut line [12]
+*FUNCTION [onPlayerCommand()] scripts/init.nut line [71]
+
+LOCALS
+[data] ARRAY
+[this] INSTANCE
+[data] ARRAY
+[this] INSTANCE
+[text] ARRAY
+[text] "dupa"
+[cmd] "register"
+[player] INSTANCE
+[this] TABLE
+announcer: Failed to store response from master.vc-mp.org
+Player 'malina' ID 0 connected.
+announcer: Failed to store response from master.vc-mp.org
+Player 'malina' ID 0 disconnected (timeout).
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [the index '1' does not exist]
+
+CALLSTACK
+*FUNCTION [PasswordValidator()] scripts/PSScripts/Validator/AuthValidator.nut line [20]
+*FUNCTION [Validate()] scripts/PSScripts/Validator/AuthValidator.nut line [12]
+*FUNCTION [onPlayerCommand()] scripts/init.nut line [71]
+
+LOCALS
+[data] ARRAY
+[this] INSTANCE
+[data] ARRAY
+[this] INSTANCE
+[text] ARRAY
+[text] "dupa"
+[cmd] "register"
+[player] INSTANCE
+[this] TABLE
+announcer: Failed to store response from master.vc-mp.org
+Player 'malina' ID 0 connected.
+announcer: Failed to store response from master.vc-mp.org
+Player 'malina' ID 0 disconnected (timeout).
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [the index 'count' does not exist]
+
+CALLSTACK
+*FUNCTION [PasswordValidator()] scripts/PSScripts/Validator/AuthValidator.nut line [17]
+*FUNCTION [Validate()] scripts/PSScripts/Validator/AuthValidator.nut line [12]
+*FUNCTION [onPlayerCommand()] scripts/init.nut line [71]
+
+LOCALS
+[data] ARRAY
+[this] INSTANCE
+[data] ARRAY
+[this] INSTANCE
+[text] ARRAY
+[text] "huj"
+[cmd] "register"
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'count' does not exist]
+
+CALLSTACK
+*FUNCTION [PasswordValidator()] scripts/PSScripts/Validator/AuthValidator.nut line [17]
+*FUNCTION [Validate()] scripts/PSScripts/Validator/AuthValidator.nut line [12]
+*FUNCTION [onPlayerCommand()] scripts/init.nut line [71]
+
+LOCALS
+[data] ARRAY
+[this] INSTANCE
+[data] ARRAY
+[this] INSTANCE
+[text] ARRAY
+[text] "huj a"
+[cmd] "register"
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'count' does not exist]
+
+CALLSTACK
+*FUNCTION [PasswordValidator()] scripts/PSScripts/Validator/AuthValidator.nut line [17]
+*FUNCTION [Validate()] scripts/PSScripts/Validator/AuthValidator.nut line [12]
+*FUNCTION [onPlayerCommand()] scripts/init.nut line [71]
+
+LOCALS
+[data] ARRAY
+[this] INSTANCE
+[data] ARRAY
+[this] INSTANCE
+[text] ARRAY
+[text] "huj a a"
+[cmd] "register"
+[player] INSTANCE
+[this] TABLE
+announcer: Failed to store response from master.vc-mp.org
+Player 'malina' ID 0 connected.
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+Player 'malina' ID 0 disconnected (timeout).
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  3
+[SCRIPT]  2
+announcer: Failed to store response from master.vc-mp.org
+Player 'malina' ID 0 connected.
+announcer: Failed to store response from master.vc-mp.org
+Player 'malina' ID 0 disconnected (timeout).
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [the index 'cache' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerRequestSpawn()] scripts/init.nut line [46]
+
+LOCALS
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'cache' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerRequestSpawn()] scripts/init.nut line [46]
+
+LOCALS
+[player] INSTANCE
+[this] TABLE
+
+AN ERROR HAS OCCURED [the index 'userData' does not exist]
+
+CALLSTACK
+*FUNCTION [constructor()] scripts/PSScripts/Controller/AbstractUser.nut line [8]
+*FUNCTION [constructor()] scripts/PSScripts/Controller/AuthController.nut line [4]
+*FUNCTION [onPlayerCommand()] scripts/init.nut line [71]
+
+LOCALS
+[player] INSTANCE
+[this] INSTANCE
+[player] INSTANCE
+[this] INSTANCE
+[data] ARRAY
+[text] "huj"
+[cmd] "register"
+[player] INSTANCE
+[this] TABLE
+announcer: Failed to store response from master.vc-mp.org
+Player 'malina' ID 0 connected.
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+Player 'malina' ID 0 disconnected (timeout).
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [arith op + on between 'instance' and 'instance']
+
+CALLSTACK
+*FUNCTION [constructor()] scripts/PSScripts/Controller/AbstractUser.nut line [10]
+*FUNCTION [constructor()] scripts/PSScripts/Controller/AuthController.nut line [4]
+*FUNCTION [onPlayerCommand()] scripts/init.nut line [71]
+
+LOCALS
+[player] INSTANCE
+[this] INSTANCE
+[player] INSTANCE
+[this] INSTANCE
+[data] ARRAY
+[text] "huj"
+[cmd] "register"
+[player] INSTANCE
+[this] TABLE
+announcer: Failed to store response from master.vc-mp.org
+Player 'malina' ID 0 connected.
+Player 'malina' ID 0 disconnected (timeout).
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [the index 'UsersCache' does not exist]
+
+CALLSTACK
+*FUNCTION [constructor()] scripts/PSScripts/Controller/AbstractUser.nut line [7]
+*FUNCTION [constructor()] scripts/PSScripts/Controller/AuthController.nut line [4]
+*FUNCTION [onPlayerCommand()] scripts/init.nut line [71]
+
+LOCALS
+[plr] INSTANCE
+[this] INSTANCE
+[player] INSTANCE
+[this] INSTANCE
+[data] ARRAY
+[text] "huj"
+[cmd] "register"
+[player] INSTANCE
+[this] TABLE
+announcer: Failed to store response from master.vc-mp.org
+Player 'malina' ID 0 connected.
+announcer: Failed to store response from master.vc-mp.org
+Player 'malina' ID 0 disconnected (timeout).
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [wrong number of parameters]
+
+CALLSTACK
+*FUNCTION [onPlayerCommand()] scripts/init.nut line [71]
+
+LOCALS
+[data] ARRAY
+[text] "huj"
+[cmd] "register"
+[player] INSTANCE
+[this] TABLE
+announcer: Failed to store response from master.vc-mp.org
+Player 'malina' ID 0 connected.
+announcer: Failed to store response from master.vc-mp.org
+Player 'malina' ID 0 disconnected (timeout).
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  (function : 0x00000235D7CBBE20)
+
+AN ERROR HAS OCCURED [attempt to call 'integer']
+
+CALLSTACK
+*FUNCTION [register()] scripts/PSScripts/Controller/AuthController.nut line [12]
+*FUNCTION [onPlayerCommand()] scripts/init.nut line [71]
+
+LOCALS
+[validator] INSTANCE
+[data] ARRAY
+[this] INSTANCE
+[data] ARRAY
+[text] "huj"
+[cmd] "register"
+[player] INSTANCE
+[this] TABLE
+announcer: Failed to store response from master.vc-mp.org
+Player 'malina' ID 0 connected.
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+Player 'malina' ID 0 disconnected (timeout).
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  (function : 0x000001C2780A4A70)
+[SCRIPT]  true
+announcer: Failed to store response from master.vc-mp.org
+Player 'malina' ID 0 connected.
+Player 'malina' ID 0 disconnected (timeout).
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  success
+[ERROR]: error xd 
+announcer: Failed to store response from master.vc-mp.org
+Player 'malina' ID 0 connected.
+Player 'malina' ID 0 disconnected (timeout).
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[ERROR]: error xd 
+[ERROR]: error xd 
+[ERROR]: error xd 
+[ERROR]: error xd 
+announcer: Failed to store response from master.vc-mp.org
+Player 'malina' ID 0 connected.
+Player 'malina' ID 0 disconnected (timeout).
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[ERROR]: error xd 
+[ERROR]: error xd 
+announcer: Failed to store response from master.vc-mp.org
+Player 'malina' ID 0 connected.
+Player 'malina' ID 0 disconnected (timeout).
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  (function : 0x0000022940297FA0)
+[ERROR]: error xd 
+[SCRIPT]  (function : 0x0000022940297FA0)
+[ERROR]: error xd 
+[SCRIPT]  (function : 0x0000022940297FA0)
+[ERROR]: error xd 
+announcer: Failed to store response from master.vc-mp.org
+Player 'malina' ID 0 connected.
+announcer: Failed to store response from master.vc-mp.org
+Player 'malina' ID 0 disconnected (timeout).
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  (function : 0x0000023F25A17B20)
+[ERROR]: error xd 
+[SCRIPT]  (function : 0x0000023F25A17B20)
+[ERROR]: error xd 
+[SCRIPT]  (function : 0x0000023F25A17B20)
+[ERROR]: error xd 
+announcer: Failed to store response from master.vc-mp.org
+Player 'malina' ID 0 connected.
+Player 'malina' ID 0 disconnected (timeout).
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  (function : 0x000001C619B3A620)
+[ERROR]: error xd 
+[SCRIPT]  (function : 0x000001C619B3A620)
+[ERROR]: error xd 
+
+AN ERROR HAS OCCURED [the index 'cache' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerRequestSpawn()] scripts/init.nut line [46]
+
+LOCALS
+[player] INSTANCE
+[this] TABLE
+[SCRIPT]  (function : 0x000001C619B3A620)
+[ERROR]: error xd 
+announcer: Failed to store response from master.vc-mp.org
+Player 'malina' ID 0 connected.
+announcer: Failed to store response from master.vc-mp.org
+Player 'malina' ID 0 disconnected (timeout).
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  (function : 0x000001D66EE07190)
+[ERROR]: error xd 
+announcer: Failed to store response from master.vc-mp.org
+Player 'malina' ID 0 connected.
+announcer: Failed to store response from master.vc-mp.org
+Player 'malina' ID 0 disconnected (timeout).
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  (function : 0x000001FDC28A9770)
+[ERROR]: error xd 
+[SCRIPT]  (function : 0x000001FDC28A9770)
+[ERROR]: error xd 
+announcer: Failed to store response from master.vc-mp.org
+Player 'malina' ID 0 connected.
+announcer: Failed to store response from master.vc-mp.org
+Player 'malina' ID 0 disconnected (timeout).
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  Please give a password and retype
+[ERROR]: error xd 
+[SCRIPT]  Password complexicty
+[ERROR]: error xd 
+[SCRIPT]  true
+[ERROR]: error xd 
+announcer: Failed to store response from master.vc-mp.org
+Player 'malina' ID 0 connected.
+Player 'malina' ID 0 disconnected (timeout).
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[ERROR]: the index 'ValidatePassword' does not exist
+announcer: Failed to store response from master.vc-mp.org
+Player 'malina' ID 0 connected.
+Player 'malina' ID 0 disconnected (timeout).
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  success
+[ERROR]: error xd 
+[SCRIPT]  success
+[ERROR]: error xd 
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+announcer: Failed to store response from master.vc-mp.org
+Player 'malina' ID 0 connected.
+Player 'malina' ID 0 disconnected (timeout).
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  success
+[ERROR]: error xd 
+[ERROR]: error xd 
+[ERROR]: error xd 
+[ERROR]: error xd 
+[ERROR]: error xd 
+announcer: Failed to store response from master.vc-mp.org
+Player 'malina' ID 0 connected.
+Player 'malina' ID 0 disconnected (timeout).
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[ERROR]: parameter 0 has an invalid type 'instance' ; expected: 'table'
+announcer: Failed to store response from master.vc-mp.org
+Player 'malina' ID 0 connected.
+announcer: Failed to store response from master.vc-mp.org
+Player 'malina' ID 0 disconnected (timeout).
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[ERROR]: parameter 0 has an invalid type 'instance' ; expected: 'table'
+announcer: Failed to store response from master.vc-mp.org
+Player 'malina' ID 0 connected.
+announcer: Failed to store response from master.vc-mp.org
+Player 'malina' ID 0 disconnected (timeout).
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [parameter 0 has an invalid type 'instance' ; expected: 'table']
+
+CALLSTACK
+*FUNCTION [register()] scripts/PSScripts/Controller/AuthController.nut line [20]
+*FUNCTION [onPlayerCommand()] scripts/init.nut line [71]
+
+LOCALS
+[validatePass] "Please give a password and retype"
+[data] ARRAY
+[this] INSTANCE
+[data] ARRAY
+[text] "h"
+[cmd] "register"
+[player] INSTANCE
+[this] TABLE
+announcer: Failed to store response from master.vc-mp.org
+Player 'malina' ID 0 connected.
+announcer: Failed to store response from master.vc-mp.org
+Player 'malina' ID 0 disconnected (timeout).
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+
+AN ERROR HAS OCCURED [the index 'AuthController' does not exist]
+
+CALLSTACK
+*FUNCTION [onPlayerCommand()] scripts/init.nut line [71]
+
+LOCALS
+[data] ARRAY
+[text] "huj ha"
+[cmd] "register"
+[player] INSTANCE
+[this] TABLE
+announcer: Failed to store response from master.vc-mp.org
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  User Kernel classes loaded successfully
+
+AN ERROR HAS OCCURED [cannot open the file]
+
+CALLSTACK
+*FUNCTION [main()] scripts/PSScripts/Loader/Loader.nut line [8]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [onScriptLoad()] scripts/init.nut line [17]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[this] TABLE
+
+AN ERROR HAS OCCURED [cannot open the file]
+
+CALLSTACK
+*FUNCTION [onScriptLoad()] scripts/init.nut line [17]
+
+LOCALS
+[this] TABLE
+[WARNING] onScriptLoad failed to execute -- check the console for more details.
+announcer: Failed to store response from master.vc-mp.org
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  User Kernel classes loaded successfully
+
+AN ERROR HAS OCCURED [cannot open the file]
+
+CALLSTACK
+*FUNCTION [main()] scripts/PSScripts/Loader/Loader.nut line [8]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [onScriptLoad()] scripts/init.nut line [17]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[this] TABLE
+
+AN ERROR HAS OCCURED [cannot open the file]
+
+CALLSTACK
+*FUNCTION [onScriptLoad()] scripts/init.nut line [17]
+
+LOCALS
+[this] TABLE
+[WARNING] onScriptLoad failed to execute -- check the console for more details.
+announcer: Failed to store response from master.vc-mp.org
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  User Kernel classes loaded successfully
+
+AN ERROR HAS OCCURED [cannot open the file]
+
+CALLSTACK
+*FUNCTION [main()] scripts/PSScripts/Loader/Loader.nut line [8]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [onScriptLoad()] scripts/init.nut line [17]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[this] TABLE
+
+AN ERROR HAS OCCURED [cannot open the file]
+
+CALLSTACK
+*FUNCTION [onScriptLoad()] scripts/init.nut line [17]
+
+LOCALS
+[this] TABLE
+[WARNING] onScriptLoad failed to execute -- check the console for more details.
+announcer: Failed to store response from master.vc-mp.org
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  User Kernel classes loaded successfully
+
+AN ERROR HAS OCCURED [cannot open the file]
+
+CALLSTACK
+*FUNCTION [main()] scripts/PSScripts/Loader/Addons/Authentication.nut line [2]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [main()] scripts/PSScripts/Loader/Loader.nut line [8]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [onScriptLoad()] scripts/init.nut line [17]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[vargv] ARRAY
+[this] TABLE
+[this] TABLE
+
+AN ERROR HAS OCCURED [cannot open the file]
+
+CALLSTACK
+*FUNCTION [main()] scripts/PSScripts/Loader/Loader.nut line [8]
+*FUNCTION [dofile()] NATIVE line [-1]
+*FUNCTION [onScriptLoad()] scripts/init.nut line [17]
+
+LOCALS
+[vargv] ARRAY
+[this] TABLE
+[this] TABLE
+
+AN ERROR HAS OCCURED [cannot open the file]
+
+CALLSTACK
+*FUNCTION [onScriptLoad()] scripts/init.nut line [17]
+
+LOCALS
+[this] TABLE
+[WARNING] onScriptLoad failed to execute -- check the console for more details.
+announcer: Failed to store response from master.vc-mp.org
+announcer: Failed to store response from master.vc-mp.org
+Player 'malina' ID 0 connected.
+Player 'malina' ID 0 disconnected (timeout).
+[MODULE]  Loaded SqVCMP 0.4 frontend by Stormeus. (v1.0)
+[SCRIPT]  User Kernel classes loaded successfully
+[SCRIPT]  Authentication Addon classes loaded successfully

@@ -10,10 +10,8 @@ class UserModel{
     health = 100;
     armor = 0;
 
-
-
-    static function setKills(val){
-        return this.kills = val;
+    static function getRepository(){
+        return UserRepository();
     }
 
     // static function getKills(){

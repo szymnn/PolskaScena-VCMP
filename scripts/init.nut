@@ -14,10 +14,7 @@ function onServerStop(){
 }
 
 function onScriptLoad(){
-    ::dofile( "scripts/PSScripts/Model/UserModel.nut" );
-    ::dofile( "scripts/PSScripts/Model/UserDataModel.nut" );
-    ::dofile( "scripts/PSScripts/Controller/AuthController.nut" );
-    AuthController(1).register();
+    ::dofile( "scripts/PSScripts/Loader/Loader.nut" );
 }
 
 
@@ -69,6 +66,11 @@ function onPlayerChat( player, text ){
 }
 
 function onPlayerCommand( player, cmd, text ){
+    if(cmd=="register"){
+        local data = split( text, " " );
+        local register = AuthController(player).register(data);
+        MessagePlayer(register,player);
+    }
     return 1;
 }
 
